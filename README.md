@@ -1,2 +1,2 @@
 # random-scripts
-A collected of assorted scripts for work.
+A collection of assorted scripts for work.
